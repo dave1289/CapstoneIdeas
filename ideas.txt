@@ -1,0 +1,14 @@
+Guitar practice App in React:
+-- pulls from guitar API for chords, key signatures, chord structures and progressions.
+-- Randomly generates key signature, chord progression and accompanying chord structure diagrams.
+-- Randomly generates tempo and animated CSS metronome to use for timing.  Space for filling in desired strumming pattern
+-- Allows you to log in, save jams (chord progressions w/ diagrams and generated metronome tempo, strumming pattern) , post ideas for new jams publically
+-- DB for users and saved jams
+
+ADHD helper app in react:
+-- setup days by the hour for tasks, routine, and has suggestions specifically for ADHD management
+-- messages phone, emails, or notifies when changes are coming, when you need to take a break from a task, to keep you on task, etc
+-- allows you to accumulate points for sticking to your routine, allows you to keep a journal (private or public) of your progress
+-- link up with friends to be able to help the people in your life be more productive and happy (not that theyre related)
+-- DB for users, routines(by day of week), posts, following and followers, adhd advice DB
+
